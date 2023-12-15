@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ramache Zoubir</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 
-- 🌱 I’m currently learning **react native**
+- 🌱 I’m currently learning **flutter**
 
 - 👨‍💻 All of my projects are available at [ramache-zoubir.vercel.app/](ramache-zoubir.vercel.app/)
 
